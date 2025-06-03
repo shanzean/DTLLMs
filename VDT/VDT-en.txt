@@ -1,0 +1,176 @@
+Simple task descriptions(a total of 91):
+1.Adjust to default time
+2.Adjust to real-time
+3.Adjust the time to morning 
+4.Adjust the time to noon
+5.Adjust the time to afternoon
+6.Adjust the time to evening
+7.Set the weather to rainy
+8.Set the weather to live conditions
+9.Set the weather to default weather
+10.Set the weather to snowy
+11.Set the weather to rainy
+12.Set the weather to thunderstorm
+13.Set the weather to foggy
+14.Switch to the lighting system
+15.Switch to the HVAC system
+16.Switch to the heating system
+17.Switch to the power supply and distribution system
+18.Switch to the photovoltaic system
+19.Introduce yourself
+20.Introduce the market resources shareable at Inspur Group level
+21.Introduce the Inspur Tech Park
+22.Introduce our company
+23.Introduce Inspur servers
+24.What is Python?
+25.Shut down the current system
+26.Pan the view slightly to the right.
+27.Pan the view 45 degrees to the right
+28.Pan the view 90 degrees to the right.
+29.Pan the view 180 degrees to the right.
+30.Pan the view slightly to the left.
+31.Pan the view 45 degrees to the left.
+32.Pan the view 90 degrees to the left.
+33.Pan the view 180 degrees to the left
+34.Zoom in slightly
+35.Zoom in by 45%
+36.Zoom in by 90%
+37.Zoom in by 180%
+38.Zoom out slightly
+39.Zoom out by 45%
+40.Zoom out by 90%
+41.Zoom out by 180%
+42.Enlarge the perspective
+43.Narrow the perspective
+44.Rotate view right
+45.Rotate view left
+46.Rotate view up
+47.Rotate view down
+48.Slightly adjust the view angle left
+49.Slightly adjust the view angle right
+50.Move up
+51.Move down
+52.Move left
+53.Move right
+54.Return to main interface.
+55.Focus the view on Inspur Tech Park
+56.Focus the view on S01 Building
+57.Focus the view on S02 Building
+58.Focus the view on S03 Building
+59.Focus the view on S04 Building
+60. Focus the view on S05 Building
+61.Focus the view on S06 Building
+62.Switch view to comprehensive situation
+63.Focus the view on Suangu Park
+64.Show me the entire campus 
+65.Turn on camera
+66.Turn off camera
+67.Turn off all air conditioning points
+68.Show all air conditioning points
+69.Turn off all lighting points
+70.Show all lighting points
+71.Switch system to drainage system
+72.Turn off the drainage system
+73.Turn off the elevator system.
+74.Turn off the personnel access system
+75.Turn off the parking system
+76.Turn off the perimeter security system
+77.Turn off the video surveillance system
+78.Turn off the patrol system
+79.Turn on the elevator system
+80.Turn on the personnel access system
+81.Turn on the parking system.
+82.Turn on the perimeter security system.
+83.Turn on the video surveillance system.
+84.Turn on the patrol system.
+85.Switch the view to campus highlights.
+86.Switch the view to smart access.
+87.Switch the view to smart security.
+88.Switch the view to energy consumption management.
+89.Switch the view to intelligent maintenance.
+90.Focus the view on Inspur Tech.
+91.Focus the view on the entire campus.
+
+Moderate task descriptions (a total of 54)
+1.Set the weather to rainy sunshower 
+2.Focus the view on the 1st floor of S01 Building
+3.Focus the view on the 11th floor of S01 Building
+4.Focus the view on the 21st floor of S01 Building
+5.Focus the view on the 1st floor of S02 Building
+6.Focus the view on the 11th floor of S02 Building
+7.Focus the view on the 21st floor of S02 Building
+8.Focus the view on the 1st floor of S03 Building
+9.Focus the view on the 3rd floor of S03 Building
+10.Focus the view on the 1st floor of S04 Building
+11.Focus the view on the 4th floor of S04 Building
+12.Focus the view on the 14th floor of S04 Building
+13.Focus the view on the 5th floor of S05 Building
+14.Focus the view on the 15th floor of S05 Building
+15.Focus the view on the 25th floor of S05 Building
+16.Focus the view on the 6th floor of S06 Building
+17.Focus the view on the 16th floor of S06 Building
+18.Focus the view on the 26th floor of S06 Building
+19.Focus the view on the 25th floor of number 5 Building
+20.Focus the view on the 6th floor of number 6 Building
+21.Focus the view on the 16th floor of ES06 Building
+22.Focus the view on the 16th floor of CS06 Building
+23.Query the total electricity consumption of S01 Building in Inspur Tech Park
+24.Query the total electricity consumption of S02 Building in Inspur Tech Park
+25.Query the electricity consumption of S01 in Inspur Tech Park
+26.Query the electricity consumption of 1st floor, S01 Building in Inspur Tech Park
+27.Query the electricity consumption of 11th floor, S01 Building in Inspur Tech Park
+28.Query the electricity consumption of S011 floor.
+29.Query the electricity consumption of S0111 floor.
+30.Query the electricity consumption of S0222 floor.
+31.Query the electricity consumption of S022 floor.
+32.Query the electricity consumption of S033 floor.
+33.Query the electricity consumption of S0333 floor.
+34.Focus on the 15th floor of S05 Building and turn off camera
+35.Focus on the 15th floor of S05 Building and turn on camera
+36.Focus on the 15th floor of S05 Building and turn off all AC points
+37.Focus on the 15th floor of S05 Building and show all AC points
+38.Focus on the 15th floor of S05 Building and turn off all lighting points
+39.Focus on the 15th floor of S05 Building and show all lighting points
+40.Focus on Inspur Tech Park and turn off camera
+41.Focus on Inspur Tech Park and turn on camera
+42.Focus on Inspur Tech Park and turn off all AC points
+43.Focus on Inspur Tech Park and show all AC points
+44.Focus the view on Inspur Tech Park and turn off all lighting points
+45.Focus the view on Inspur Tech Park and show all lighting points
+46.Focus the view on 26F of CS06 Building and turn off all AC points
+47.Focus the view on 26F of CS06 Building and turn on camera
+48.Focus the view on 26F of CS06 Building and show all AC points
+49.Query the total electricity consumption of Inspur Tech Park
+50.Focus the view on 11F of S01 Building and adjust the view 45° to the right
+51.Focus the view on S01 Building and set weather to live conditions
+52.Query the electricity cost for 11F of S01 Building in Q1 2024
+53.Query the total electricity consumption of S01 Building in Inspur Tech Park
+54.Query the electricity consumption of S01 Building and focus the view on S01 Building
+
+Comlex task descriptions (a total of 25)
+1.Show me the 11th floor of S02 Building, switch to Smart Access view, then query total electricity consumption
+2.Show me the 11th floor of S02 Building, switch to Smart Access view, then query electricity consumption of S02-11F
+3.Show me the 11th floor of S02 Building, switch to Energy Consumption Management view, then slightly adjust view angle right
+4.Show me the 11th floor of S02 Building, switch to Intelligent Maintenance view, then zoom in slightly
+5.Focus on 11th floor of S01 Building, set weather to rainy, and change time to morning
+6.Query S01 Building's electricity consumption, focus on S01 Building, set the weather to rainy, change time to morning, and rotate view 8° right
+7.Focus view on 3rd floor of S05 Building and activate video fusion camera
+8.Focus on S01 Building, set weather to rainy, change time to morning, and rotate view 8° right
+9.Focus on S01 Building, activate Suangu West Gate surveillance camera, and enlarge the feed
+10.Focus on S01 Building, activate parking system, then query current available parking spaces in the campus
+11.Activate HVAC system, query monthly electricity consumption for 2023, and display as bar chart
+12.Activate HVAC system, query monthly electricity consumption for 2023, and display as line chart
+13.Query the monthly electricity consumption for 2023 and display as bar chart
+14.Query the monthly electricity consumption for 2023 and display as line chart
+15.Introduce yourself, then query the monthly electricity consumption for 2023 and display as pie chart
+16.Query monthly electricity consumption for 2023 and display in table format
+17.What was S01 Building's monthly electricity usage last year? Introduce Inspur
+servers
+18.Show S01 Building's current year vs. previous year total costs in bar chart
+19.Provide itemized energy consumption and costs for S01 Building this year, and generate analytical report with recommendations
+20.Show S01 Building's current year itemized energy consumption and costs in separate pie charts
+21.Activate HVAC system. Display all AC points. Query today's AC electricity usage on S01-11F. Activate Suangu West Gate video surveillance and zoom in.
+22.Activate video fusion camera and zoom in. Focus on S01-11F and enable heatmap distribution.
+23.Focus on S01-11F and enable access control system.
+24.Activate B01 entrance camera and zoom in, and query current floor's available parking spaces.
+Query the today's entry count at Inspur Tech Park and generate pie chart showing visitor vs. employee ratio.
